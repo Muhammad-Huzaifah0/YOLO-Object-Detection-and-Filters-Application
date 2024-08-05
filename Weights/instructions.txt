@@ -1,0 +1,2 @@
+1. Download the weights, coco dataset names, and yolo cfg from the links mentioned in README.md
+2. Copy all three files to Weights (this) directory
