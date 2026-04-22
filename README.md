@@ -68,9 +68,9 @@ This application provides a graphical user interface (GUI) for YOLO-based object
 - `apply_filter_to_frame`: Applies the selected filter to a frame.
 - `resize_video_frame`: Resizes video frames to fit the main frame.
 - `show_frame_on_canvas`: Displays a frame on the canvas.
-- `stop_running`: Stops live video streaming and resets flags..
+- `stop_running`: Stops live video streaming and resets flags.
 
-## Example:
+## Example
 
 Here is an example of how to use the application:
 
