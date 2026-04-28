@@ -1,4 +1,4 @@
-# YOLO Object Detection and Filters Application
+# YOLO Object Detection and Filters Application:
 
 ## Overview
 
