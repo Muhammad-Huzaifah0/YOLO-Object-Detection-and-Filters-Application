@@ -14,13 +14,13 @@ This application provides a graphical user interface (GUI) for YOLO-based object
 - **Image Filters**: Apply various filters such as edge detection, sharpening, Gaussian blur, brightness adjustment, erosion, dilation, sepia tone, contrast adjustment, negative, and emboss to images and videos.
 - **Live Video**: Capture live video from a webcam and apply YOLO detection and filters in real-time.
 
-## Requirements
+## Requirements:
 
-- Python 3.x
-- OpenCV
-- NumPy
-- Pillow (PIL Fork)
-- Tkinter (comes with Python standard library)
+- Python 3.x.
+- OpenCV.
+- NumPy.
+- Pillow (PIL Fork).
+- Tkinter (comes with Python standard library).
 
 ## Installation
 
