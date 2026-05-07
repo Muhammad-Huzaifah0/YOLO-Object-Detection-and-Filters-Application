@@ -55,7 +55,7 @@ This application provides a graphical user interface (GUI) for YOLO-based object
 5. **Toggle Object Detection**:
     - Click on the "Detect Objects" button to enable or disable YOLO object detection on the loaded image or video frames.
 
-## Code Structure
+## Code Structure:
 
 - `YOLOFaceDetectionApp`: Main application class.
 - `create_control_buttons`: Creates and configures the control buttons.
@@ -70,7 +70,7 @@ This application provides a graphical user interface (GUI) for YOLO-based object
 - `show_frame_on_canvas`: Displays a frame on the canvas.
 - `stop_running`: Stops live video streaming and resets flags.
 
-## Example
+## Example:
 
 Here is an example of how to use the application:
 
