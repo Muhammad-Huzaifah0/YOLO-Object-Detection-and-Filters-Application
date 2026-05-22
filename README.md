@@ -1,4 +1,4 @@
-# YOLO Object Detection and Filters Application:
+# YOLO Object Detection and Filters Application
 
 ## Overview
 
@@ -8,7 +8,7 @@ This application provides a graphical user interface (GUI) for YOLO-based object
 - Live video streaming with YOLO object detection.
 - Applying various image processing filters.
 
-## Features
+## Features:
 
 - **YOLO Object Detection**: Load YOLO model and perform object detection on images, videos, and live video streams.
 - **Image Filters**: Apply various filters such as edge detection, sharpening, Gaussian blur, brightness adjustment, erosion, dilation, sepia tone, contrast adjustment, negative, and emboss to images and videos.
