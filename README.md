@@ -2,11 +2,11 @@
 
 ## Overview
 
-This application provides a graphical user interface (GUI) for YOLO-based object detection and image processing filters. The GUI is built using Tkinter, and the core functionalities include:
+This application provides a graphical user interface (GUI) for YOLO-based object detection and image processing filters. The GUI is built using Tkinter, and the core functionalities include::
 - Loading YOLO model weights, configuration, and class names.
 - Selecting and displaying images and videos.
-- Live video streaming with YOLO object detection.
-- Applying various image processing filters.
+- Live video streaming with YOLO object detection
+- Applying various image processing filters
 
 ## Features:
 
